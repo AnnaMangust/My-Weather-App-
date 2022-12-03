@@ -86,4 +86,4 @@ function formatDate(timestamp) {
   let celLink = document.querySelector("#cel-link");
   celLink.addEventListener("click", displayCelTemp);
   
-  search("London"); 
+  search("Kyev"); 
